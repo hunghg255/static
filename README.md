@@ -1,0 +1,1 @@
+# Host file static
